@@ -1,3 +1,7 @@
 displayName = IGambleNull's Mod
 author = IGambleNull
-version = 1.3
+version = 1.3.1
+includeSource = true
+hideCode = false
+includePDB = true
+homepage = https://github.com/Mika-Westphal/IGambleNullsMod
