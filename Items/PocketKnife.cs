@@ -18,8 +18,8 @@ namespace IGambleNullsMod.Items
         {
             item.damage = 350;
             item.melee = true;
-            item.width = 15;
-            item.height = 15;
+            item.width = 32;
+            item.height = 32;
             item.useTime = 17;
             item.useAnimation = 17;
             item.useStyle = ItemUseStyleID.Stabbing;
